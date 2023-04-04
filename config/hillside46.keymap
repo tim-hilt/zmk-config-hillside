@@ -23,6 +23,7 @@
 &kp  LSHIFT   &kp  Z        &kp  X        &kp  C        &kp  D        &kp  V        &kp  ESC                                           &kp ESC       &kp  K         &kp  H        &kp  COMMA    &kp  DOT      &kp  SLASH    &kp  END
                                                         &kp  LCTL     &kp  LALT     &kp  SPACE    &mo 1                                &lt 1 ENTER   &mt LSHFT BSPC &kp LALT      &screenshot
                         >;
+			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
 			
                 };
 		

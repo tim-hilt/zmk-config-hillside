@@ -30,7 +30,7 @@
                 nav_layer {
                         bindings = <
 &kp  GRAVE    &kp  EXCL     &kp  AMPS     &kp  LBRC     &kp  RBRC     &kp  CARET                                                                     &none         &kp   N7      &kp   N8      &kp   N9      &kp  COLON    &trans
-&kp  HASH     &kp  EQUAL    &kp  DLLR     &kp  LPAR     &kp  RPAR     &kp  TILDE                                                                     &none         &kp   N4      &kp   N5      &kp   N6      &kp  RIGHT    &kp STAR
+&kp  HASH     &kp  EQUAL    &kp  DLLR     &kp  LPAR     &kp  RPAR     &kp  TILDE                                                                     &none         &kp   N4      &kp   N5      &kp   N6      &kp  PLUS     &kp STAR
 &trans        &kp  AT       &kp  PRCNT    &kp  LBKT     &kp  RBKT     &kp  PIPE     &bt BT_CLR                                         &trans        &kp   N0      &kp   N1      &kp   N2      &kp   N3      &kp  BSLH     &kp HOME
                                                         &kp LEFT      &kp DOWN      &kp UP        &kp RIGHT              &kp ESC       &trans        &trans        &trans 
                         >;
